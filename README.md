@@ -5,20 +5,9 @@ Modul 1 opgave dat18v2 2. semester
 
 ## These are the requirements for the application:
 
-* The system should be able to create, update, delete and display
-    movies and actors.
-* A user should be able to register and login to the system.
-* A user would like to be able to add movies to his/her favourites
-    list of movies and a history of which movies he/she has seen and
-    when he/she has seen them.
+* The system should be able to create and display movies.
 * A user should be able to search for movies on relevant criteria eg.
     title, actor, or eg. production year after 1990.
-* A user would like to see statistics of relevant things eg. when they
-    saw which movie etc.
-* When a user plays a movie the application should print out a list of
-    actors and which role they played in the movie eg. Mel Gibson - Nick
-    
-    Marshall Helen Hunt - Darcy Maguire etc. 
     
 ### Software Design
 
