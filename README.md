@@ -31,8 +31,8 @@ group hand-in on Fronter latest at Friday 27th of April at 22:00.
 
 ### Presentation of your solutions: 
 
-30th of April at 9:15 - 11:45  1st
-of May at 8:30 - 11:00 
+XXth of September at 9:15 - 11:45  1st
+of XXX at 8:30 - 11:00 
 
 Each group has 10-15 minutes to present their
 project.
