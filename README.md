@@ -1,7 +1,5 @@
-# Modul Spring Movie 
+# Movie Spring Boot Application
 Modul 1 opgave dat18v2 2. semester
-
-# Movie Application
 
 ## These are the requirements for the application:
 
