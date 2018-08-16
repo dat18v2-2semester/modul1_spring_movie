@@ -14,8 +14,10 @@ Modul 1 opgave dat18v2 2. semester
        * create a _feature_ branch, 
        * create the feature, 
        * and merge it into the master branch.
-    * The feature should be a use case or part of a use case.
-    
+    * The feature should be a _Use Case_ or part of a _Use Case_.
+ * The Application should be developed using _Unified Process_ (UP) as a Project Management tool.
+
+<!--
 ### Software Design
 
 1.  Identify Actors and Use Cases for the system, and write a Use Case
@@ -35,6 +37,7 @@ Modul 1 opgave dat18v2 2. semester
 
 Hand in your solution on Github and the link to the repository as a
 group hand-in on Fronter latest at Friday 27th of April at 22:00.
+-->
 
 ### Presentation of your solutions: 
 
