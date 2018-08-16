@@ -3,10 +3,9 @@ Modul 1 opgave dat18v2 2. semester
 
 ## These are the requirements for the application:
 
-* The system should be able to _create_ and _display_ movies.
-* A user should be able to search for movies on relevant criteria eg.
-    title, actor, or eg. production year after 1990.
 * The application should be done using _Spring Boot_
+* The system should be able to _create_ and _display_ movies.
+* A user should be able to search for movies on relevant based on the title.
 * The application should be done using _Git_ and should be handed in on _GitHub_ with a link to your repository on _Fronter_. 
    * You should work with a _master_ branch and each group member should during the project at least once:
        * create a _feature_ branch, 
