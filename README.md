@@ -16,6 +16,7 @@ Modul 1 opgave dat18v2 2. semester
        * and merge it into the master branch.
     * The feature should be a _Use Case_ or part of a _Use Case_.
  * The Application should be developed using _Unified Process_ (UP) as a Project Management tool.
+   * You should document this and be able to show this at your presentation.
 
 <!--
 ### Software Design
