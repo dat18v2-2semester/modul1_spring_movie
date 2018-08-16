@@ -9,6 +9,12 @@ Modul 1 opgave dat18v2 2. semester
 * A user should be able to search for movies on relevant criteria eg.
     title, actor, or eg. production year after 1990.
 * The application should be done using _Spring Boot_
+* The application should be done using _Git_ and should be handed in on _GitHub_ with a link to your repository on _Fronter_. 
+   * You should work with a _master_ branch and each group member should during the project at least once:
+       * create a _feature_ branch, 
+       * create the feature, 
+       * and merge it into the master branch.
+    * The feature should be a use case or part of a use case.
     
 ### Software Design
 
