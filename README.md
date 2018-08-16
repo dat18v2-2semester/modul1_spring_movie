@@ -5,7 +5,7 @@ Modul 1 opgave dat18v2 2. semester
 
 ## These are the requirements for the application:
 
-* The system should be able to create and display movies.
+* The system should be able to _create_ and _display_ movies.
 * A user should be able to search for movies on relevant criteria eg.
     title, actor, or eg. production year after 1990.
 * The application should be done using _Spring Boot_
