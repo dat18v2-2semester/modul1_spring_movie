@@ -5,6 +5,9 @@ Modul 1 opgave dat18v2 2. semester
 
 ![](https://github.com/dat18v2-2semester/modul1_spring_movie/blob/master/Screen%20Shot%202018-08-16%20at%2023.14.58.png)
 
+So basically this is an application like the Movie Application you did last semester, but now with a different interface. _Web_ instead of _Console_.     
+
+
 
 ## These are the requirements for the application:
 
