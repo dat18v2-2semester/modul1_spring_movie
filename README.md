@@ -8,7 +8,7 @@ Modul 1 opgave dat18v2 2. semester
 ![](Screen%20Shot%202018-08-20%20at%2012.24.18.png)
 
 
-So basically this is an application like the [Movie Application](https://docs.google.com/document/d/18FFlVI84z2GYfrHww5_vX-MQcBaSK1NdCgrdDipOYos/edit) you did last semester, but now with a different interface, _Web_ instead of _Console_. 
+So basically this is an application like the Movie Application you did last semester, but now with a different interface, _Web_ instead of _Console_. 
 
 The application should only be able to show a list of movies, be able to create a new movie for the list, and have a search fuctionallity that will display one movie fitting the search criteria.   
 
