@@ -3,7 +3,10 @@ Modul 1 opgave dat18v2 2. semester
 
 > In 3 weeks you will have created an application that will look something like this:    
 
-![](https://github.com/dat18v2-2semester/modul1_spring_movie/blob/master/Screen%20Shot%202018-08-16%20at%2023.14.58.png)
+![](Screen%20Shot%202018-08-16%20at%2023.14.58.png)
+
+![](Screen%20Shot%202018-08-20%20at%2012.24.18.png)
+
 
 So basically this is an application like the Movie Application you did last semester, but now with a different interface, _Web_ instead of _Console_. The application should only be able to show a list of movies, be able to create a new movie for the list, and have a search fuctionallity that will display one movie fitting the search criteria.   
 
