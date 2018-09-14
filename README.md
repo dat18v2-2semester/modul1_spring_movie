@@ -28,7 +28,7 @@ The application should only be able to show a list of movies, be able to create 
  
  > The following is postponed until next modul assignment and you should therefor not do this now!
  >  * The Application should be developed using _Unified Process_ (UP) as a Project Management tool.
- >  * You should document this and be able to show this at your presentation.
+ >    * You should document this and be able to show this at your presentation.
 
 <!--
 ### Software Design
