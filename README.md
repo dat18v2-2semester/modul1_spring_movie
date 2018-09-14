@@ -23,7 +23,7 @@ The application should only be able to show a list of movies, be able to create 
        * create the feature, 
        * and merge it into the master branch.
     * The feature should be a _Use Case_ or part of a _Use Case_.
-
+ * You should document the analasys and design flow in Use Cases and by using the UML diagrams you worked with in 1. semester.
  * You should make use of at least 3 _GRASP_ design principles in your application.
  
  > The following is postponed until next modul assignment and you should therefor not do this now!
