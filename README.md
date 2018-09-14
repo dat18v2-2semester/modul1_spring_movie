@@ -23,9 +23,12 @@ The application should only be able to show a list of movies, be able to create 
        * create the feature, 
        * and merge it into the master branch.
     * The feature should be a _Use Case_ or part of a _Use Case_.
- * The Application should be developed using _Unified Process_ (UP) as a Project Management tool.
-   * You should document this and be able to show this at your presentation.
+
  * You should make use of at least 3 _GRASP_ design principles in your application.
+ 
+ > The following is postponed until next modul assignment and you should therefor not do this now!
+  * The Application should be developed using _Unified Process_ (UP) as a Project Management tool.
+   * You should document this and be able to show this at your presentation.
 
 <!--
 ### Software Design
