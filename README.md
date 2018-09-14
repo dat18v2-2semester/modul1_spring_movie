@@ -27,8 +27,8 @@ The application should only be able to show a list of movies, be able to create 
  * You should make use of at least 3 _GRASP_ design principles in your application.
  
  > The following is postponed until next modul assignment and you should therefor not do this now!
-  * The Application should be developed using _Unified Process_ (UP) as a Project Management tool.
-   * You should document this and be able to show this at your presentation.
+ >  * The Application should be developed using _Unified Process_ (UP) as a Project Management tool.
+ >  * You should document this and be able to show this at your presentation.
 
 <!--
 ### Software Design
